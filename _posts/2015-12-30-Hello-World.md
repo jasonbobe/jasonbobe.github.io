@@ -3,4 +3,4 @@ layout: post
 title: Hello, World
 ---
 
-and Happy New Year
+Adding some additional whitespace for organizing thoughts. Happy New Year!
