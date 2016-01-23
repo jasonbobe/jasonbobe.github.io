@@ -5,7 +5,7 @@ title: Participation Paradox
 
 If you look at things people say they value, health is usually near the top of the list. For example, good health and well-being are [#3 on the UN's sustainable development goals](https://sustainabledevelopment.un.org/sdgs) for 2030.
 
-Being that research is how knowledge is created about human bodies, why illness strikes, and what keeps us healthy, then why don't more people participate? 
+Being that research is how knowledge is created about the make-up of human bodies, why illness strikes some people but not others, and what keeps us healthy, then why don't more people participate? 
 
 I have not been able to find solid numbers for the annual rates of participation in organized health research, but I do have several years of anecdotal evidence that participation is very, very low. I mean, how many studies are YOU signed-up for right now? 
 
