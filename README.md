@@ -1,3 +1,9 @@
+I used Jekyll Now to create my personal site [jasonbobe.net](http://jasonbobe.net).
+
+Below are the implementation instructions I used.
+
+***
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
