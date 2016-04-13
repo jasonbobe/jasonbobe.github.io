@@ -3,7 +3,7 @@ layout: post
 title: GET Labs 2016
 ---
 
-In organized health research, the "architecture of participation" (to borrow a term from Tim O'Reilly) is still in its infancy. A great place to see early formations and imagine what's next, is GET Labs on April 25th at Harvard Medical School.
+In organized health research, the "[architecture of participation](http://radar.oreilly.com/2015/03/socialcivics-and-the-architecture-of-participation.html)" (to borrow a term from Tim O'Reilly) is still in its infancy. A great place to see early formations and imagine what's next, is GET Labs on April 25th at Harvard Medical School.
 
 [VIDEO: What is GET Labs?](https://youtu.be/PvGVMg1wjoU)
 
