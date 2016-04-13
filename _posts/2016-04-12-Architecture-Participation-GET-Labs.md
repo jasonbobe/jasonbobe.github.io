@@ -7,9 +7,7 @@ In organized health research, the "[architecture of participation](http://radar.
 
 [VIDEO: What is GET Labs?](https://youtu.be/PvGVMg1wjoU)
 
-Research teams from 18 participatory studies from around the US will be there (list below), inviting you to various analyses, from gut and nasal microbiomes to the chemicals in your pee. [Learn more](http://www.getconference.org/get2016/labs.html) and please join us!
-
-Participating Studies:
+Research teams from 18 participatory studies from around the US will be there (list below), inviting you to various analyses, from gut and nasal microbiomes to the chemicals in your pee. [Learn more](http://www.getconference.org/get2016/labs.html). The list of participating studies is incredible, I hope you'll join me.
 
 * American Gut Project. PI: Rob Knight, PhD. University of California, San Diego
 * Asthma Mobile Health Study. PI: Yvonne Y-Feng Chan, MD, PhD. Mount Sinai, New York
