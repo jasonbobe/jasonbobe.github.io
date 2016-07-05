@@ -13,7 +13,7 @@ I believe a bioscience producer is a person who can help solve this riddle by ta
 ## PATTERNS
 One challenge in designing better research studies is understanding the current state-of-the-art. Lots of great work has been done, but often in a manner that is very opaque. Consent forms are not always available online and protocols almost never are. So, trying to pop-the-hood on an existing study in the search for innovative practices is mostly impossible without personal interactions with the research teams running those studies. Luckily, I co-organize an event called GET Labs that brings together many leading research teams of the open persuasion who are also interested in some of the same issues. Through this community, I got a chance to get feedback and help on a new project that examines [sharing patterns](blog.jasonbobe.net/sharing-guidebook/) in biomedical research studies.
 
-![GET Labs Pano](images/GET-Labs-Pano-2016.jpg)
+![GET Labs Pano](/images/GET-Labs-Pano-2016.jpg)
 
 
 ## POLICY
