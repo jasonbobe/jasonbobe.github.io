@@ -19,9 +19,13 @@ One challenge in designing better research studies is understanding the current 
 ## POLICY
 As an advocate for open science, it is important to educate and work with policymakers about what this means and why it is important. Being a fellow helped me find more time to engage than I otherwise would have. 
 
+![workshop](/images/workshopping-awesomeness.jpg)
+
 What a critical time to be engaged too! Through the Obama administration's Precision Medicine Initiative and Cancer Moonshot, there is suddenly a lot more people with interest in thinking through how to design research studies that are able to engage millions of people, to empower experts and citizen scientists from diverse backgrounds to make contributions, and to create shared data resources that, taken all together, fuel discoveries that will power the next generation of health care. These are issues I've worked on in several research communities, including DIYbio, Personal Genome Project, Open Humans, and most recently, the Resilience Project. 
+
+![Bobe White House](/images/bobe-whitehouse.jpg)
 
 ## PEOPLE
 One of the aspects of the fellowship that really worked for me was exposure to a diverse set of people working outside of my primary domain of biomedical research.  Getting fresh perspectives, learning how other people perceive the things I'm close to (at times, too close), and getting regular exposure to how others think and work, the tools they use and the people they interact with. Yay for weekly fellows meetings. Also yay for learning how to use github to advance my work, speaking as someone who doesn't write code for living. Life is just better when you've got a group of people who want to help out and throw you high fives along the way :)
 
-
+![High Fives](/images/high-fives.gif)
